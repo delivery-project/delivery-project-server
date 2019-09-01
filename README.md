@@ -1,19 +1,20 @@
 # Delivery project
 
-### [RestAPI](https://github.com/delivery-project/delivery-project-server/wiki)   
- 
- 
-  
-### ![ERD](https://user-images.githubusercontent.com/49062985/64080462-51244800-cd2f-11e9-92d3-eceb39d50eb9.PNG)
+### [delivery-project : RestAPI](https://github.com/delivery-project/delivery-project-server/wiki)   
+#
+#
+#
+### delivery-project : ERD
+### ![delivery-project : ERD](https://user-images.githubusercontent.com/49062985/64080462-51244800-cd2f-11e9-92d3-eceb39d50eb9.PNG)
 
 
-배포
+### 배포
 * AWS EC2
 * AWS RDS
 * AWS S3
 
 
-사용된 도구
+### 사용된 도구
 * Spring-boot - Spring-boot 웹 프레임워크
 * Maven - 의존성 관리 프로그램
 * Tomcat - 웹 애플리케이션 서버
