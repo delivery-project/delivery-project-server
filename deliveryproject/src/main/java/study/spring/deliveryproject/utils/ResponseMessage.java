@@ -32,5 +32,7 @@ public class ResponseMessage {
     public static final String DELETE_COMMENT_FAIL  = "댓글 탈퇴 실패";
 
 
-
+    public static final String AUTHORIZED = "인증 성공";
+    public static final String UNAUTHORIZED = "인증 실패";
+    public static final String FORBIDDEN = "인가 실패";
 }

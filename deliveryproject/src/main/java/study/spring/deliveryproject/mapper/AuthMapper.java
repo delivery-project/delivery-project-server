@@ -7,6 +7,7 @@ import study.spring.deliveryproject.dto.User;
 
 @Mapper
 public interface AuthMapper {
+    //로그인
     @Select("SELECT * FROM user WHERE email = #{email} AND password = #{password}")
     User findByEmailAndPassword(@Param("email") final String email, @Param("password") final String password);
 }
