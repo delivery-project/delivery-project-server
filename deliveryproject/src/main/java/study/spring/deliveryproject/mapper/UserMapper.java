@@ -6,7 +6,6 @@ import study.spring.deliveryproject.dto.User;
 import study.spring.deliveryproject.model.DefaultRes;
 import study.spring.deliveryproject.model.SignUpReq;
 
-import java.util.List;
 
 @Mapper
 public interface UserMapper {
