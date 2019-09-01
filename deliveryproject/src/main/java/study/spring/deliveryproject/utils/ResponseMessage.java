@@ -13,7 +13,8 @@ public class ResponseMessage {
     public static final String NOT_FOUND_USER = "회원을 찾을 수 없습니다.";
     public static final String UPDATE_USER = "회원 정보 수정 성공";
     public static final String DELETE_USER = "회원 탈퇴 성공";
-    public static final String READ_USER_WISHSTORE  = "회원 찜한가게 조회 성공";
+    public static final String NOT_FOUND_USERWISHSTORE = "회원 찜한가게를 찾을 수 없습니다";
+    public static final String READ_USERWISHSTORE = "회원 찜한가게 조회 성공";
 
 
     public static final String READ_BOARD = "게시글 조회 성공";
@@ -35,4 +36,6 @@ public class ResponseMessage {
     public static final String AUTHORIZED = "인증 성공";
     public static final String UNAUTHORIZED = "인증 실패";
     public static final String FORBIDDEN = "인가 실패";
+
+
 }
