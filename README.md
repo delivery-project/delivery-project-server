@@ -2,10 +2,7 @@
 
 ### [delivery-project : RestAPI](https://github.com/delivery-project/delivery-project-server/wiki)   
    
-   
-   
-### delivery-project : ERD
-### ![delivery-project : ERD](https://user-images.githubusercontent.com/49062985/64080462-51244800-cd2f-11e9-92d3-eceb39d50eb9.PNG)
+
 
 
 ### 배포
